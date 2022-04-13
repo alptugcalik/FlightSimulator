@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608307824 source:d:\lectures\ee441\pa2\flight\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<time.h>
+	<stdlib.h>
+
